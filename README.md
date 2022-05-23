@@ -16,3 +16,6 @@ WHEN I click on a city in the search history
 THEN I am again presented with current and future conditions for that city
 
 ![image](https://user-images.githubusercontent.com/90361495/169744424-b9187fb7-c126-49ae-bc02-7ecababb4d8d.png)
+
+
+Deployed app: https://quntarious.github.io/weather-dashboard/
